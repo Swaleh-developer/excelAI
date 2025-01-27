@@ -23,5 +23,5 @@ The **AI Excel Analysis Bot** is a Streamlit-based application that allows users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/swaleh-developer/excelAI.git
-   cd ai-excel-analysis-bot
+   git clone https://github.com/swaleh-developer/ai-xls-analysis-bot.git
+   cd ai-xls-analysis-bot
